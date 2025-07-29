@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            lab1_2.Main.Execute();
+            lab1_3.Main.Execute();
         }
 
     }
