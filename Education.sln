@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.16.SocketClientMT", "..\C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.18.BinrayBalancedTree", "..\CSharp2ClientServer-main\1.18.BinrayBalancedTree\1.18.BinrayBalancedTree.csproj", "{662870A3-607B-486D-F481-4A500B26BADB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.20.Integral", "..\CSharp2ClientServer-main\1.20.Integral\1.20.Integral.csproj", "{414D87AC-0E48-763C-3EB7-92020B81BE87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.EFCConnect", "..\CSharp2ClientServer-main\2.1.EFCConnect\2.1.EFCConnect.csproj", "{B7985D20-D245-C1E9-CA8C-0659D7104E06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{662870A3-607B-486D-F481-4A500B26BADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{662870A3-607B-486D-F481-4A500B26BADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{662870A3-607B-486D-F481-4A500B26BADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414D87AC-0E48-763C-3EB7-92020B81BE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414D87AC-0E48-763C-3EB7-92020B81BE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414D87AC-0E48-763C-3EB7-92020B81BE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414D87AC-0E48-763C-3EB7-92020B81BE87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7985D20-D245-C1E9-CA8C-0659D7104E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7985D20-D245-C1E9-CA8C-0659D7104E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7985D20-D245-C1E9-CA8C-0659D7104E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7985D20-D245-C1E9-CA8C-0659D7104E06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
