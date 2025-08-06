@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.20.Integral", "..\CSharp2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.EFCConnect", "..\CSharp2ClientServer-main\2.1.EFCConnect\2.1.EFCConnect.csproj", "{B7985D20-D245-C1E9-CA8C-0659D7104E06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2_2", "..\lab2_2\lab2_2.csproj", "{E4ACAAC6-DC74-4DC7-BECD-AD4624375A06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B7985D20-D245-C1E9-CA8C-0659D7104E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7985D20-D245-C1E9-CA8C-0659D7104E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7985D20-D245-C1E9-CA8C-0659D7104E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4ACAAC6-DC74-4DC7-BECD-AD4624375A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4ACAAC6-DC74-4DC7-BECD-AD4624375A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4ACAAC6-DC74-4DC7-BECD-AD4624375A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4ACAAC6-DC74-4DC7-BECD-AD4624375A06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
